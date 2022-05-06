@@ -77,7 +77,7 @@ def pregunta_03():
     # Importe GridSearchCV
     from sklearn.model_selection import GridSearchCV
     # Importe Pipeline
-    from sklearn import Pipeline
+    from sklearn.pipeline import Pipeline
     # Importe OneHotEncoder
     from sklearn.preprocessing import OneHotEncoder
 
